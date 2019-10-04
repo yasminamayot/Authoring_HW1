@@ -10,7 +10,7 @@ const data = {
     },
 
     photos: {
-        name: "",
+        name: "something",
         desc: "",
         info: "",
         pic: ""
