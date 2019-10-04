@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
+body {
+  padding: 50px;
+  font-family: 'Karla', sans-serif;
+  background-image: url("images/dot-grid.png");
+}
+
+a {
+  color: black;
+  font-size: 2em;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #251e42;
+  color: azure;
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+
+ul {
+  list-style: none;
+  /* Remove HTML bullets */
+  padding: 0.5em;
+  margin: 0;
+}

@@ -1,0 +1,15 @@
+<h1>{{name}}</h1>
+<h4>{{desc}}</h4>
+<p>{{info}}</p>
+
+<img src="/images/{{pic}}" alt="vsco_girls">
+<br>
+{{!-- when working with express and nodes, images and videos need to still have img src --}}
+
+<button onclick="goBack()">Go Back</button>
+
+<script>
+    function goBack() {
+        window.history.back();
+    }
+</script>
