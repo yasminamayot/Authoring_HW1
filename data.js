@@ -7,7 +7,6 @@ const data = {
         desc: "The Iconic C1 Filter",
         info: "The C1 Filter is a saturated popularized photo filter that highlights blue water and green palm trees! Take a picture using this filter and watch your social media blowup!",
         pic: "pic12.jpg"
-        pic2: "dot-grid.png"
     },
 
     photos: {
