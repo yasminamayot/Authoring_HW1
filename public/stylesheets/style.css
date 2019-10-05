@@ -2,7 +2,8 @@
 body {
   padding: 50px;
   font-family: 'Karla', sans-serif;
-  background-image: url("images/dot-grid.png");
+  background-color: beige;
+  text-align: center;
 }
 
 a {
@@ -13,17 +14,23 @@ a {
 
 a:hover {
   background-color: #251e42;
-  color: azure;
+  color: purple;
   text-decoration: none;
 }
 
 img {
-  width: 100%;
+  width: 50%;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 ul {
   list-style: none;
-  /* Remove HTML bullets */
   padding: 0.5em;
   margin: 0;
 }
+
+#mainLink {
+  font-size: 1em;
+}
+
